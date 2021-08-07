@@ -1,4 +1,12 @@
 ### Hi there 👋
+## I am John Mbugua a growing software developer
+##🔭 I’m currently working on A POS windows application
+##🌱 I’m currently learning Dart programminglanguage
+##📫 How to reach me: chat me on whatsapp via +254745123483
+
+
+
+
 
 <!--
 **johnniembugua/johnniembugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
