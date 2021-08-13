@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am John Mbugua a growing software developer
-### 🔭 I’m currently working on A POS windows application
-### 🌱 I’m currently learning Dart programming language
-### 📫 How to reach me: chat me on whatsapp via +254745123483
+#### 🔭 I’m currently working on A POS windows application
+#### 🌱 I’m currently learning Dart programming language
+#### 📫 How to reach me: chat me on whatsapp via +254745123483
 
 
 
