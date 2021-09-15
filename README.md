@@ -6,7 +6,7 @@
 #### 📫 How to reach me: chat me on whatsapp via +254799005059
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/48179354/129418438-2d7be7b9-c071-43e8-adbb-4719b79e5d57.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/48179354/129418456-de4f6076-1e22-449b-9d2f-0bb9fedc0b67.png)
+
 
 
 
