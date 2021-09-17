@@ -5,7 +5,7 @@
 #### 🌱 I’m currently learning Dart programming language
 #### 📫 How to reach me: chat me on whatsapp via +254799005059
 
-![Screenshot (80)](https://user-images.githubusercontent.com/48179354/129418438-2d7be7b9-c071-43e8-adbb-4719b79e5d57.png)
+
 
 
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- ![Screenshot (80)](https://user-images.githubusercontent.com/48179354/129418438-2d7be7b9-c071-43e8-adbb-4719b79e5d57.png)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
