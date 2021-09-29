@@ -3,7 +3,7 @@
 ## I am John Mbugua a growing software developer
 #### 🔭 I’m currently working on A POS Desktop application
 #### 🌱 I’m currently learning Dart programming language
-#### 📫 How to reach me: chat me on whatsapp via +254799005059
+#### 📫 How to reach me: johnniendungu321@gmail.com
 
 
 
