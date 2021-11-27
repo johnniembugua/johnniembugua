@@ -37,7 +37,7 @@
 [website]: https://johnmbugua.netlify.app/
 [twitter]:https://twitter.com/johnniendungu
 [instagram]:https://www.instagram.com/jonniembugua/
-[linkedin]: www.linkedin.com/in/john-mbugua-a50864204
+[linkedin]: www.linkedin.com/in/john-mbugua-a50864204/
 
 
 
