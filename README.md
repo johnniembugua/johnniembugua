@@ -6,6 +6,10 @@
 #### 📫 How to reach me: johnniendungu321@gmail.com
 
 
+---
+
+<img align="left" alt="John Mbugua Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnniembuguar&show_icons=true&hide_border=true" />
+
 
 
 
