@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="johnmbugua.netlify.app/" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][website]
+[<img align="center" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
