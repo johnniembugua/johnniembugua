@@ -6,14 +6,14 @@
 - 👯 I’m looking to collaborate with other mobile software Engineers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hike and play chess / cards
-- 📫 How to reach me: [email]
+- 📫 How to reach me: [Email][email]
 
 ### Connect with me:
 
-[<img align="left" alt= "johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-icon/master/svg/globe.svg" />][website]
-[<img align="left" alt= "johnmbugua | Twitter" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt= "johnmbugua | Linkedin" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt= "johnmbugua | Instagram" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-icon/master/svg/globe.svg" />][website]
+[<img align="left" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -22,16 +22,16 @@
 ---
 
 <img align="left" alt="John Mbugua Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
-
-
-
-
-<img align="right" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 <br/>
 
 
-<img align="center" alt="Wkatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+
+
+<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+<br/>
+
+
+<img align="left" alt="Wkatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 <br/>
 ---
 
