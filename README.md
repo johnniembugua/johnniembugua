@@ -33,7 +33,7 @@
 <br/>
 
 
-[email]: johnniendungu321@gmail.com
+[email]: https://johnniendungu321@gmail.com
 [website]: https://johnmbugua.netlify.app/
 [twitter]:https://twitter.com/johnniendungu
 [instagram]:https://www.instagram.com/jonniembugua/
