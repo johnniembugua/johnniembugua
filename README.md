@@ -31,7 +31,7 @@
 
 <img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 <br/>
----
+
 
 [email]: johnniendungu321@gmail.com
 [website]: https://johnmbugua.netlify.app/
