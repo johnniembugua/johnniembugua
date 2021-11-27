@@ -17,7 +17,7 @@
 
 
 
-<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/wakatime?username=John Mbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 
 
 
