@@ -1,9 +1,22 @@
 
-### Hi there 👋
-## I am John Mbugua a growing software developer
-#### 🔭 I’m currently working on A POS Desktop application
-#### 🌱 I’m currently learning Dart programming language
-#### 📫 How to reach me: johnniendungu321@gmail.com
+### Hi there, I'm John Mbugua - aka [Johnniembugua][website] 👋
+## I'm Developer and a Teacher
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other mobile software Engineers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to hike and play chess / cards
+- 📫 How to reach me: [email]
+
+### Connect with me:
+
+[<img align="left" alt= "johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-icon/master/svg/globe.svg" />][website]
+[<img align="left" alt= "johnmbugua | Twitter" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt= "johnmbugua | Linkedin" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt= "johnmbugua | Instagram" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
 
 
 ---
@@ -13,12 +26,20 @@
 
 
 
-<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 
+<img align="right" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+<br/>
 
 
 <img align="center" alt="Wkatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+<br/>
+---
 
+[email]: johnniendungu321@gmail.com
+[website]: https://johnmbugua.netlify.app/
+[twitter]:https://twitter.com/johnniendungu
+[instagram]:https://www.instagram.com/jonniembugua/
+[linkedin]: www.linkedin.com/in/john-mbugua-a50864204
 
 
 
