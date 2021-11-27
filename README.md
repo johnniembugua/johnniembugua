@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="center" alt="johnmbugua | website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="johnmbugua | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
 [<img align="center" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
