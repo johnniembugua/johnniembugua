@@ -1,6 +1,6 @@
 
-### Hi there, I'm John Mbugua - aka [Johnniembugua][website] 👋
-## I'm Developer and a Teacher
+### Hi there, I'm John Mbugua - [click here][website] 👋
+## I'm Mobile Software Engineer
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other mobile software Engineers
