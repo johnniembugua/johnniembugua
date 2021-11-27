@@ -10,14 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-icon/master/svg/globe.svg" />][website]
-[<img align="left" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="johnmbugua.netlify.app/" width="22px"src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="johnmbugua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="johnmbugua | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johnmbugua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-
-
 
 ---
 
@@ -31,7 +29,7 @@
 <br/>
 
 
-<img align="left" alt="Wkatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
+<img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 <br/>
 ---
 
