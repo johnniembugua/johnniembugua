@@ -1,6 +1,6 @@
 
 ### Hi there 👋 [john][website] 
-## I'm Mobile Software Engineer
+## Mobile Software Engineer
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other mobile software Engineers
