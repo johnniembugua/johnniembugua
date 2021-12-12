@@ -1,5 +1,5 @@
 
-### Hi there, I'm John Mbugua 👋 [click here][website] 
+### Hi there 👋 [john][website] 
 ## I'm Mobile Software Engineer
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything 🤣
