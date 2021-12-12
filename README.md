@@ -1,5 +1,5 @@
 
-### Hi there 👋 [john][website] 
+### Hi there 👋
 ## Mobile Software Engineer
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything 🤣
