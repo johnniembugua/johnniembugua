@@ -22,7 +22,7 @@
 <img align="left" alt="John Mbugua Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 <br/>
 
-
+<codersrank-timeline username="johnniembugua">CodersRank Timeline</codersrank-timeline>
 
 
 <img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnniembugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
