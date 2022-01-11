@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other mobile software Engineers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hike and play chess / cards
 - 📫 How to reach me: [Email][email]
 
