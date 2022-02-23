@@ -2,10 +2,10 @@
 ### Hi there 👋
 ## Mobile Software Engineer
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything  I can handle🤣
 - 👯 I’m looking to collaborate with other mobile software Engineers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to hike and play chess / cards
+- ⚡ Fun fact: I love to hike, play chess and cards
 - 📫 How to reach me: [Email][email]
 
 ### Connect with me:
