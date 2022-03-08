@@ -26,6 +26,8 @@
 
 <img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@johnmbugua&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact" />
 
+<codersrank-timeline username="johnniembugua" type="workexperience"></codersrank-timeline>
+
 <br/>
 <img align="left" alt="Wakatime Hours" src="https://wakatime.com/badge/user/9e0d8b31-006a-43ea-86eb-b1338315d592.svg"/>
 <br/>
