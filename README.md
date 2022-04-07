@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-## Mobile Software Engineer
+## Mobile Software Developer
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning everything  I can handle🤣
 - 👯 I’m looking to collaborate with other mobile software Engineers
