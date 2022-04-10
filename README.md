@@ -1,9 +1,9 @@
-![Hello I'm Tony Kagete](hello.gif)
-Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing vital roles in practical aspects of daily life. 
+<h3 align="left">Hi, I'm John Mbugua:</h3>
+Mobile Software Developer, been mostly on cross-platform side of things. Fascinated to contribute more to Open Source projects and learn everything I can handle..
 
 <h3 align="left">Skills:</h3>
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="media/icons8-python.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="media/icons8-sql-96.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="media/icons8-microsoft-excel.svg" alt="excel" width="40" height="40"/> </a>   <a href="https://trello.com/" target="_blank"> <img src="media/icons8-trello.svg" alt="trello" width="40" height="40"/>   <a href="https://obsidian.md/" target="_blank"> <img src="media/icons8-mind-map-96.svg" alt="mind-mapping" width="40" height="40"/></p> 
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="media/icons8-python.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="media/icons8-sql-96.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://flutter.dev/" target="_blank"> <img src="media/flutter.svg" alt="excel" width="40" height="40"/> </a>   <a href="https://nodejs.org/en/" target="_blank"> <img src="media/Node-js-01.svg" alt="trello" width="40" height="40"/>   <a href="https://obsidian.md/" target="_blank"> <img src="media/Node-js-01.svg" alt="mind-mapping" width="40" height="40"/></p> 
   
 __________________________________________________________________________________________________________
 
