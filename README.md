@@ -1,4 +1,7 @@
-<h3 align="left">Hi, I'm John Mbugua:</h3>
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+
+
+<!-- <h3 align="left">Hi, I'm John Mbugua:</h3>
 Mobile Software Developer, been mostly on cross-platform side of things. Fascinated to contribute more to Open Source projects and learn everything I can handle..
 
 <h3 align="left">Skills:</h3>
@@ -43,7 +46,7 @@ ________________________________________________________________________________
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
 
 ![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
-
+ -->
 <!-- 
 ### Hi there 👋
 ## Mobile Software Developer
