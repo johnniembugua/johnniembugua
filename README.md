@@ -43,9 +43,9 @@ ________________________________________________________________________________
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
+[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/ndki8w4zd6rh1d25yp42l3p74)
 
-![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
+![Profile views](https://gpvc.arturio.dev/johnniembugua)  
  -->
 <!-- 
 ### Hi there 👋
