@@ -44,7 +44,14 @@ ________________________________________________________________________________
 
 <a href="https://wakatime.com/@johnmbugua"><img src="https://wakatime.com/badge/user/9e0d8b31-006a-43ea-86eb-b1338315d592.svg" alt="Total time coded since Oct 8 2021" /></a>
 
+### ⚡ GitHub Statistics
 
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=johnniembugua&count_private=true&show_icons=true&theme=buefy" alt="johnniembugua" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnniembugua&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="johnniembugua" height="165" />
+ </p>
+ 
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnniembugua&" alt="johnniembugua" /></p>
 __________________________________________________________________________________________________________
 
 <h3 align="left">Now Playing:</h3>
