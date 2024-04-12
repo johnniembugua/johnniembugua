@@ -39,15 +39,16 @@ ________________________________________________________________________________
 
 [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/johnniembugua/)   [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnniembugua)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/_johnmbugua/)  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnniembugua" alt="John Mbugua" /> </p>
+
+<a href="https://wakatime.com/@johnmbugua"><img src="https://wakatime.com/badge/user/9e0d8b31-006a-43ea-86eb-b1338315d592.svg" alt="Total time coded since Oct 8 2021" /></a>
 __________________________________________________________________________________________________________
 
 <h3 align="left">Now Playing:</h3>
 
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/ndki8w4zd6rh1d25yp42l3p74)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnniembugua" alt="John Mbugua" /> </p>
 
-<a href="https://wakatime.com/@johnmbugua"><img src="https://wakatime.com/badge/user/9e0d8b31-006a-43ea-86eb-b1338315d592.svg" alt="Total time coded since Oct 8 2021" /></a>
 
 <!-- 
 ### Hi there 👋
