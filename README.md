@@ -45,8 +45,10 @@ ________________________________________________________________________________
 
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/ndki8w4zd6rh1d25yp42l3p74)
 
-![Profile views](https://gpvc.arturio.dev/johnniembugua)  
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnniembugua" alt="John Mbugua" /> </p>
+
+<a href="https://wakatime.com/@johnmbugua"><img src="https://wakatime.com/badge/user/9e0d8b31-006a-43ea-86eb-b1338315d592.svg" alt="Total time coded since Oct 8 2021" /></a>
+
 <!-- 
 ### Hi there 👋
 ## Mobile Software Developer
