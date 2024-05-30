@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 [<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/johnniembugua/)   [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnniembugua)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/_johnmbugua/)  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnniembugua" alt="johnniembugua" /></a> </p>
+
 
 
 ### ⚡ GitHub Statistics
