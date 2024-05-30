@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ### ⚡ GitHub Statistics
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=johnniembugua&count_private=true&show_icons=true&theme=buefy" alt="johnniembugua" width="420"/> 
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=johnniembugua&count_private=true&show_icons=true&theme=buefy" alt="johnniembugua" width="420"/>  -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnniembugua&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="johnniembugua" height="165" />
  </p>
  
